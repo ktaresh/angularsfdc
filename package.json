@@ -1,0 +1,20 @@
+{
+  "name": "angualrsfdc",
+  "version": "0.0.1",
+  "description": "Easy setup for Visualforce and Angular",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ktaresh/angularsfdc/"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "angularvf",
+    "visualforce"
+  ],
+  "author": "tareshk81@gmail.com",
+  "license": "MIT"
+}
